@@ -37,18 +37,11 @@ Admin Use-Cases:
 
 # ------------------------
 
-Steps:
-1. User Authentication and Authorization APIs
-2. Engineer?Admin need Approval from ADMIN.
-3. Customer no need of approval
-4. API help to Login.
-5. use access tokens also
-6. and more 
-7. 
+Features
 
 # ------------------------
 
-
+![alt text](image-5.png)
 
 
 # ------------------------
